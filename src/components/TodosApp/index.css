@@ -1,0 +1,17 @@
+.bg{
+    margin-left: 80px;
+}
+
+ul{
+    list-style: none;
+}
+
+.input{
+    background-color: #ffffff;
+}
+
+.list-item{
+    background-color: rgb(178, 193, 193);
+    width: 500px;
+    margin-left: 0px;
+}
